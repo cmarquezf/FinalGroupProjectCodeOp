@@ -1,4 +1,4 @@
-# FinalGroupProjectCodeOp
+# Final Group Project CodeOp
 Final project in the CodeOp Data Science Bootcamp (done in collaboration with another student)
 
 Find the presentation [here](https://docs.google.com/presentation/d/1NhWICQGjL1d6bgLBfr4KQ7Z4aK2S-COu8NJYPMR5Ilg/edit#slide=id.p)
